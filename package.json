@@ -1,0 +1,12 @@
+{
+    "name": "moonscript",
+    "title": "MoonScript Syntax Highlighter",
+    "description": "Add syntax highlighting support for the MoonScript language (.moon)",
+    "homepage": "https://github.com/nddrylliog/brackets-moonscript",
+    "version": "1.0.0",
+    "author": "Amos Wenger (http://amos.me)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
