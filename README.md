@@ -8,14 +8,14 @@ Search for 'moonscript' in Brackets' Extension Manager, hit Install, you're done
 
 ## Authors
 
-  * Leaf Corcoran (@leafo) - CodeMirror mode
-  * Amos Wenger (@nddrylliog) - Brackets extension
+  * Leaf Corcoran [@leafo](https://github.com/leafo) - CodeMirror mode
+  * Amos Wenger aka [@nddrylliog](https://github.com/nddrylliog) - Brackets extension
 
 ## Links
 
-  * Moonscript language: <http://moonscript.org/>
-  * Original CodeMirror mode: <https://github.com/leafo/moonscript-javascript/tree/master/codemirror2/mode/moonscript>
-  * Brackets text editor: <http://brackets.io>
+  * [Moonscript language](http://moonscript.org/)
+  * [Original CodeMirror mode](https://github.com/leafo/moonscript-javascript/tree/master/codemirror2/mode/moonscript)
+  * [Brackets text editor](http://brackets.io)
 
 ## License
 
